@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>изображение_viber_2021-04-25_17-03-24.jpg</file>
+    <file>лупа.png</file>
+    <file>logo.jpg</file>
+  </qresource>
+</RCC>
